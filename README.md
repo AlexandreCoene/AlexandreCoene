@@ -3,7 +3,7 @@
 
 - 🧙‍♂️ **Développement d'applications multiplateformes (C# WPF/MAUI**
 
-- 🔧 **Gestion de bases de données MySQL et création d'APIs RESTful.**
+- 🛢️ **Gestion de bases de données MySQL et création d'APIs RESTful.**
 
 - 🌍 **Automatisation de tâches avec Python sur Raspberry Pi et gestion de projets IoT.**
 
@@ -52,7 +52,7 @@
   </a>
 </p>
 
-
+![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandrecoene&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrecoene" alt="alexandrecoene" /></a> </p>
 
