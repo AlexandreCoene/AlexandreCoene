@@ -54,8 +54,4 @@
 
 ![Alexandre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandrecoene&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alexandrecoene&theme=dark" alt="alexandrecoene" />
-  </a>
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexandrecoene" alt="alexandrecoene" /></a> </p>
