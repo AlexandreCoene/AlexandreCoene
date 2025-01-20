@@ -1,11 +1,11 @@
 <h1 align="center">✨ Hello, world ! Moi c’est Alexandre 🌍</h1>
 <h3 align="center">💻 Étudiant 👨‍🎓 | Passionné d’Informatique et de Technologie 🚀</h3>
 
-- 🧙‍♂️ Je m'occupe principalement du **développement d'applications multiplateformes en C# (WPF/MAUI), la gestion de bases de données MySQL et la création d'APIs RESTful, ainsi que l’exploration de l’intelligence artificielle avec TensorFlow pour des projets de machine learning.**
+- 🧙‍♂️ **Développement d'applications multiplateformes (C# WPF/MAUI**
 
-- 🔧 Selon les projets j'ai fais **des scripts Python pour automatiser des tâches sur des Raspberry Pi, ainsi que l’utilisation de commandes Linux pour gérer des systèmes embarqués et des projets IoT.**
+- 🔧 **Gestion de bases de données MySQL et création d'APIs RESTful.**
 
-- 🌍 J'ai aussi réaliser **la création et le déploiement de sites web ainsi que leur hébergement, en utilisant des technologies comme HTML, CSS, JavaScript, et des outils d’hébergement comme Apache ou OVH.**
+- 🌍 **Automatisation de tâches avec Python sur Raspberry Pi et gestion de projets IoT.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
